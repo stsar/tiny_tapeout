@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     455291618175430657       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  title:        "adder"      # Project title
+  author:       "semommes"      # Your name
+  discord:      "Semommes"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "Full single bit adder"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     100       # Clock frequency in Hz (or 0 if not applicable)
 
